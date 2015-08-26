@@ -32,7 +32,7 @@ FORMS    += widget.ui
 OTHER_FILES +=
 
 RESOURCES += \
-    res.qrc
+    resources/res.qrc
 
 # remove before flight
 LIBS += -lpsapi
